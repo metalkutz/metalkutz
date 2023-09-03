@@ -3,8 +3,8 @@
 
 **metalkutz/metalkutz** is my ✨ _special_ ✨ repository.
 
-- 🔭 I’m currently working on automating a Forecasting product for Clientmetrica
-- 🌱 I’m currently learning how to use Snowflake and DBT 
+- 🔭 I’m currently working on a chatbot for Anhela IT
+- 🌱 I’m currently learning how to create LLM 
 - 👯 I’m looking to collaborate on DeFi projects
 - 🤔 I’m looking for help with finding the best bar in Barcelona
 - 💬 Ask me about Science Fiction
